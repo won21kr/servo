@@ -4,7 +4,7 @@
 
 #![crate_name = "canvas_traits"]
 #![crate_type = "rlib"]
-#![feature(core)]
+#![feature(core, nonzero)]
 extern crate core;
 extern crate azure;
 extern crate euclid;
